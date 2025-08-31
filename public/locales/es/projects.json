@@ -1,0 +1,28 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "title": "Portfolio",
+      "description": "Portfolio personal",
+      "tecnologies": ["React", "Tailwind CSS"],
+      "image": "src/assets/ProjectsImages/PortfolioProject.png",
+      "link": "https://github.com/devYranzo"
+    },
+    {
+      "id": 2,
+      "title": "App de competición E-Sport",
+      "description": "Aplicación desarrollada en Java para gestionar torneos de e-sports.",
+      "tecnologies": ["Java", "Oracle SQL", "PL/SQL"],
+      "image": "src/assets/ProjectsImages/ConsultoriaE-Sports.webp",
+      "link": "https://github.com/devYranzo"
+    },
+    {
+      "id": 3,
+      "title": "Reínos de Eteria",
+      "description": "Web para crear personajes de rol medievales.",
+      "tecnologies": ["PHP", "HTML", "CSS"],
+      "image": "src/assets/ProjectsImages/ReinosEteria.webp",
+      "link": "https://github.com/devYranzo"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "navbar": {
+    "home": "Hasiera",
+    "projects": "Projektuak",
+    "about": "Niri Buruz",
+    "contact": "Kontaktua"
+  },
+
+  "home": {
+    "rol": "Informatikako Teknikaria | Web Garatzailea"
+  },
+
+  "projects": {
+    "title": "Projektuak"
+  },
+
+  "aboutMe": {
+    "title": "Niri Buruz",
+    "text1": "Kaixo! Eneko naiz, informatika teknikari eta programazio ikaslea, teknologiarekiko pasioa duena eta etengabe hazi nahi duena.",
+    "text2": "Txikitatik ordenagailu-sistemek nola funtzionatzen duten liluratu nau, eta horrek arlo horretan formatzera eraman ninduen. Azkenaldian, software garapenean zentratu naiz. Gaur egun, web garapena ikasten ari naiz eta proiektu pertsonaletan lan egiten dut ikasitakoa praktikan jartzeko, Java, JavaScript eta React ezagutzen ditut.",
+    "text3": "Neure burua pertsona jakin-min handikoa, erabakigarria eta konprometitua dela uste dut. Teknologian sinesten dut bizitzak hobetzeko tresna gisa, eta pozik nago aldaketa horren parte izateaz.",
+    "download": "Deskargatu CV"
+  },
+
+  "contact": {
+    "title": "Kontaktua"
+  },
+
+  "button": {
+    "language": "Aldatu Hizkuntza"
+  }
+}

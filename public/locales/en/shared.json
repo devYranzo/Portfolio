@@ -1,0 +1,33 @@
+{
+    "navbar": {
+        "home": "Home",
+        "projects": "Projects",
+        "about": "About me",
+        "contact": "Contact"
+    },
+
+    "home": {
+        "rol": "IT Technician | Web developer"
+    },
+
+    "projects": {
+        "title" : "Projects"
+
+    },
+
+    "aboutMe": {
+        "title" : "About Me",
+        "text1" : "Hi! I’m Eneko, an IT technician and programming student, passionate about technology and eager to keep growing.",
+        "text2" : "Since I was young, I’ve been fascinated by how computer systems work, which led me to study the field and, more recently, to focus on software development. I’m currently learning web development and working on personal projects to apply what I’ve learned, with knowledge of Java, JavaScript, and React.",
+        "text3" : "I consider myself curious, resourceful, and committed. I strongly believe in technology as a tool to improve lives, and I’m excited to be part of that change.",
+        "download" : "Download CV"
+    },
+
+    "contact": {
+        "title" : "Contact"
+    },
+
+    "button": {
+        "language": "Change Langauge"
+    }
+}

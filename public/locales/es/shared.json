@@ -1,0 +1,32 @@
+{
+  "navbar": {
+    "home": "Inicio",
+    "projects": "Proyectos",
+    "about": "Sobre mí",
+    "contact": "Contacto"
+  },
+
+  "home": {
+    "rol": "Técnico Informático | Desarrollador Web"
+  },
+
+  "projects": {
+    "title": "Proyectos"
+  },
+
+  "aboutMe": {
+    "title": "Sobre Mí",
+    "text1": "¡Hola! Soy Eneko, técnico informático y estudiante de programación, apasionado por la tecnología y con muchas ganas de seguir creciendo.",
+    "text2": "Desde pequeño me ha fascinado cómo funcionan los sistemas informáticos, lo que me llevó a formarme en ello y, recientemente, a enfocarme en ello. Actualmente estoy aprendiendo desarrollo web y trabajando en proyectos personales para poner en práctica lo aprendido, con conocimientos en Java, JavaScript y React.",
+    "text3": "Me considero curioso, resolutivo y comprometido. Creo en la tecnología como herramienta para mejorar vidas, y me entusiasma ser parte de ese cambio.",
+    "download": "Descargar CV"
+  },
+
+  "contact": {
+    "title": "Contacto"
+  },
+
+  "button": {
+    "language": "Cambiar idioma"
+  }
+}
