@@ -14,7 +14,7 @@ export default function AboutMePage() {
     <PageWrapper>
       <div className="flex flex-col md:items-center font-Montserrat">
         <CursorCircle />
-        <h1 className="text-4xl m-4 font-bold self-center">{t('aboutMe.title')}</h1>
+        <h1 className="text-4xl m-4 self-center">{t('aboutMe.title')}</h1>
         <article className="md:flex rounded-xl shadow-lg bg-transparent backdrop-blur-md border border-stone-900 m-4 max-w-[1170px] lg:min-w-[1170px] overflow-hidden items-stretch">
           <img
             src={FotoEneko}
