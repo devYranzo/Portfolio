@@ -58,7 +58,7 @@ export default function AboutMePage() {
           <h3 className="text-2xl mt-4 w-full self-start pl-4 md:pl-0">Experiencia:</h3>
           <div className="flex flex-col md:flex-row items-center mt-4 gap-4">
             <div className="flex flex-col md:flex-row items-center">
-              <div className="p-4 bg-zinc-800/40 backdrop-blur-md border border-stone-900 rounded-xl text-center w-52 h-[240px]">
+              <div className="p-4 bg-transparent backdrop-blur-md border border-stone-900 rounded-xl text-center w-52 h-[240px]">
                 <img
                   src={OsakidetzaLogo}
                   alt="Logo Osaakidetza"
@@ -122,7 +122,7 @@ export default function AboutMePage() {
             </div>
 
             <div className="flex flex-col md:flex-row items-center">
-              <div className="p-4 bg-zinc-800/40 backdrop-blur-md border border-stone-900 rounded-xl text-center w-52 h-[240px] mb-4 md:mb-0">
+              <div className="p-4 bg-transparent backdrop-blur-md border border-stone-900 rounded-xl text-center w-52 h-[240px] mb-4 md:mb-0">
                 <img
                   src={DorletLogo}
                   alt="Logo Osaakidetza"

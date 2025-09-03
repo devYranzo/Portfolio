@@ -10,17 +10,14 @@ export default function ContactPage() {
       <div className="flex flex-col items-center font-Montserrat">
         <CursorCircle />
         <section className="py-20 text-center">
-          <h2 className="text-5xl font-bold mb-6">¡Hablemos!</h2>
-          <p className="text-white mb-12 max-w-xl mx-auto">
-            ¿Te interesa colaborar, trabajar juntos o simplemente hablar? Estoy siempre abierto a
-            nuevas oportunidades.
-          </p>
+          <h2 className="text-5xl font-bold mb-6">{t('contact.title')}</h2>
+          <p className="text-white mb-12 max-w-xl mx-auto">{t('contact.question')}</p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <a
               href="mailto:enekoy21@gmail.com"
               className="px-6 py-3 rounded bg-emerald-400 text-black font-medium shadow-lg hover:scale-95 ease-in-out duration-200"
             >
-              Escríbeme un correo
+              {t('contact.emailButton')}
             </a>
             <a
               href="https://www.linkedin.com/in/eneko-yranzo-638a6836b/"
@@ -28,7 +25,7 @@ export default function ContactPage() {
               rel="noopener noreferrer"
               className="px-6 py-3 rounded bg-gray-200 text-black font-medium shadow-lg hover:scale-95 ease-in-out duration-200"
             >
-              Hablemos por LinkedIn
+              {t('contact.LinkedinButton')}
             </a>
           </div>
         </section>

@@ -23,7 +23,10 @@
   },
 
   "contact": {
-    "title": "Contacto"
+    "title": "¡Hablemos!",
+    "question": "¿Te interesa colaborar, trabajar juntos o simplemente hablar? Estoy siempre abierto a nuevas oportunidades.",
+    "emailButton": "Escribeme un correo",
+    "LinkedinButton": "Hablemos por LinkedIn"
   },
 
   "button": {

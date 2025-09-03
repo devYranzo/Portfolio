@@ -2,7 +2,7 @@
   "list": [
     {
       "id": 1,
-      "title": "Portfolio",
+      "title": "Portfolio web",
       "description": "Personal portfolio ",
       "tecnologies": ["React", "Tailwind CSS"],
       "image": "src/assets/ProjectsImages/PortfolioProject.webp",

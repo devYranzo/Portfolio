@@ -23,7 +23,10 @@
   },
 
   "contact": {
-    "title": "Kontaktua"
+    "title": "Konekta gaitezen!",
+    "question": "Elkarlanean aritu, elkarrekin lan egin edo, besterik gabe, hitz egin nahi duzu? Beti nago aukera berrietara irekita.",
+    "emailButton": "Bidali email bat",
+    "LinkedinButton": "Hitz egin dezagun LinkedInen"
   },
 
   "button": {
