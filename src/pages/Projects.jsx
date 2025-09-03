@@ -22,7 +22,7 @@ export default function ProjectsPage() {
               <img
                 src={project.image}
                 alt={project.title + ' image'}
-                className="rounded-md mr-4 w-full h-60 object-cover mask-b-from-60% group-hover:scale-105 ease-in-out duration-200"
+                className="rounded-md mr-4 w-full h-60 object-cover object-top-left mask-b-from-60% group-hover:scale-105 ease-in-out duration-200"
               />
               <div className="grid grid-rows-[auto_1fr_auto] h-36 px-4 ">
                 <h2 className="text-xl font-bold">{project.title}</h2>

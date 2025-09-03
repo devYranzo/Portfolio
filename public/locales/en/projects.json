@@ -5,7 +5,7 @@
       "title": "Portfolio",
       "description": "Personal portfolio ",
       "tecnologies": ["React", "Tailwind CSS"],
-      "image": "src/assets/ProjectsImages/PortfolioProject.png",
+      "image": "src/assets/ProjectsImages/PortfolioProject.webp",
       "link": "https://github.com/devYranzo/Portfolio"
     },
     {
