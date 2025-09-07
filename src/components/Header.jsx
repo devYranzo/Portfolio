@@ -34,7 +34,9 @@ export default function Header() {
       </div>
       <nav
         className={`${
-          isOpen ? 'absolute top-25 left-0 w-full bg-zinc-900 z-50 shadow-2xl' : 'hidden'
+          isOpen
+            ? 'fixed top-25 left-0 w-full bg-[#242424] border-b-1 border-stone-900 z-50 shadow-2xl'
+            : 'hidden'
         } md:static md:block lg:mr-40 md:mr-20`}
       >
         <ul className="flex flex-col md:flex-row items-center gap-4 p-4 text-2xl font-Montserrat text-nowrap">

@@ -12,7 +12,7 @@ export default function HomePage() {
         <CursorCircle />
 
         <article className="sm:mb-8 lg:mb-0 mr-1 lg:mr-4 md:mr-2 w-full lg:w-1/2">
-          <h1 className="text-4xl md:text-5xl lg:text-7xl font-Poppins font-bold text-nowrap">
+          <h1 className="text-[45px] md:text-5xl lg:text-7xl font-Poppins font-bold text-nowrap">
             Eneko Yranzo
           </h1>
           <p className="text-xl md:text-2xl font-Montserrat">{t('home.rol')}</p>

@@ -10,7 +10,7 @@ export default function Links() {
           rel="noopener noreferrer"
           className="inline-flex items-center group space-x-2"
         >
-          <GithubLogo w={'32'} h={'32'} classname={'fill-white'} />
+          <GithubLogo w={'32'} h={'32'} classname={'fill-white scale-120 md:scale-100'} />
           <span className="text-slide font-bold">Github</span>
         </a>
       </li>

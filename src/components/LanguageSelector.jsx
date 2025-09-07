@@ -44,7 +44,7 @@ const LanguageSelector = () => {
       <select
         value={selectedLanguage}
         onChange={(e) => changeLanguage(e.target.value)}
-        className="block sm:hidden bg-[#242424] w-30 h-10 text-white text-sm px-4 py-2 rounded cursor-pointer"
+        className="block sm:hidden bg-[#242424] w-30 h-10 text-white text-sm px-4 py-2 rounded border cursor-pointer"
         aria-label={t('language')}
       >
         {baseLanguages.map((lang) => (
