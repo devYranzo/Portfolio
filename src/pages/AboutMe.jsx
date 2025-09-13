@@ -32,7 +32,7 @@ export default function AboutMePage() {
               {t('aboutMe.text3')}
             </div>
             <button className="self-start mt-4 mb-9 bg-emerald-400 px-4 py-2 rounded text-black hover:scale-95 ease-in-out duration-200">
-              <a href={CV} download="CV_EnekoYranzo.pdf" className="flex">
+              <a href={CV} className="flex">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="24"

@@ -1,7 +1,7 @@
 {
   "list": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Portfolio web",
       "description": "Personal portfolio ",
       "tecnologies": ["React", "Tailwind CSS"],
@@ -9,20 +9,20 @@
       "link": "https://github.com/devYranzo/Portfolio"
     },
     {
-      "id": 2,
-      "title": "E-Sport competition app",
-      "description": "Desktop application developed in Java to manage e-sports tournaments.",
-      "tecnologies": ["Java", "Oracle SQL", "PL/SQL"],
-      "image": "src/assets/ProjectsImages/ConsultoriaE-Sports.webp",
-      "link": "https://github.com/EnekoYranzo-Ikasle/Reto_E-Sport_Equipo1"
-    },
-    {
-      "id": 3,
+      "id": "2",
       "title": "Reínos de Eteria",
       "description": "Web that allows the creation of medieval role-playing characters.",
       "tecnologies": ["PHP", "HTML", "CSS"],
       "image": "src/assets/ProjectsImages/ReinosEteria.webp",
-      "link": "https://github.com/devYranzo"
+      "link": "https://github.com/devYranzo/ReinosEteria"
+    },
+    {
+      "id": "soon",
+      "title": "Soon...",
+      "description": "",
+      "tecnologies": [],
+      "image": "",
+      "link": ""
     }
   ]
 }
