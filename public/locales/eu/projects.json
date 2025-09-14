@@ -6,7 +6,8 @@
       "description": "Portfolio pertsonala",
       "tecnologies": ["React", "Tailwind CSS"],
       "image": "src/assets/ProjectsImages/PortfolioProject.webp",
-      "link": "https://github.com/devYranzo/Portfolio"
+      "link": "https://github.com/devYranzo/Portfolio",
+      "aria": "Ikusi projektua Githuben"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "description": "Web honek Erdi Aroko rol-pertsonaiak sortzeko aukera ematen du.",
       "tecnologies": ["PHP", "HTML", "CSS"],
       "image": "src/assets/ProjectsImages/ReinosEteria.webp",
-      "link": "https://github.com/devYranzo/ReinosEteria"
+      "link": "https://github.com/devYranzo/ReinosEteria",
+      "aria": "Ikusi projektua Githuben"
     },
     {
       "id": "soon",
@@ -22,7 +24,8 @@
       "description": "",
       "tecnologies": [],
       "image": "",
-      "link": ""
+      "link": "",
+      "aria": ""
     }
   ]
 }

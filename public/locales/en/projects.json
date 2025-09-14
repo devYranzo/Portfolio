@@ -6,7 +6,8 @@
       "description": "Personal portfolio ",
       "tecnologies": ["React", "Tailwind CSS"],
       "image": "src/assets/ProjectsImages/PortfolioProject.webp",
-      "link": "https://github.com/devYranzo/Portfolio"
+      "link": "https://github.com/devYranzo/Portfolio",
+      "aria": "See project on Github"
     },
     {
       "id": "2",
@@ -14,15 +15,17 @@
       "description": "Web that allows the creation of medieval role-playing characters.",
       "tecnologies": ["PHP", "HTML", "CSS"],
       "image": "src/assets/ProjectsImages/ReinosEteria.webp",
-      "link": "https://github.com/devYranzo/ReinosEteria"
+      "link": "https://github.com/devYranzo/ReinosEteria",
+      "aria": "See project on Github"
     },
     {
       "id": "soon",
-      "title": "Soon...",
+      "title": "Coming soon...",
       "description": "",
       "tecnologies": [],
       "image": "",
-      "link": ""
+      "link": "",
+      "aria": ""
     }
   ]
 }

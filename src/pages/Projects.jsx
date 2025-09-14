@@ -55,6 +55,7 @@ export default function ProjectsPage() {
                       target="_blank"
                       rel="noopener noreferrer"
                       className="ml-2"
+                      aria-label={project.aria}
                     >
                       <GithubLogo
                         w={24}
