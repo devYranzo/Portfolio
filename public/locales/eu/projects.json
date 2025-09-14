@@ -5,7 +5,7 @@
       "title": "Portfolio web",
       "description": "Portfolio pertsonala",
       "tecnologies": ["React", "Tailwind CSS"],
-      "image": "src/assets/ProjectsImages/PortfolioProject.webp",
+      "image": "/ProjectsImages/PortfolioProject.webp",
       "link": "https://github.com/devYranzo/Portfolio",
       "aria": "Ikusi projektua Githuben"
     },
@@ -14,7 +14,7 @@
       "title": "Reínos de Eteria",
       "description": "Web honek Erdi Aroko rol-pertsonaiak sortzeko aukera ematen du.",
       "tecnologies": ["PHP", "HTML", "CSS"],
-      "image": "src/assets/ProjectsImages/ReinosEteria.webp",
+      "image": "/ProjectsImages/ReinosEteria.webp",
       "link": "https://github.com/devYranzo/ReinosEteria",
       "aria": "Ikusi projektua Githuben"
     },

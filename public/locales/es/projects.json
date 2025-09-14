@@ -5,7 +5,7 @@
       "title": "Portfolio web",
       "description": "Portfolio personal",
       "tecnologies": ["React", "Tailwind CSS"],
-      "image": "src/assets/ProjectsImages/PortfolioProject.webp",
+      "image": "/ProjectsImages/PortfolioProject.webp",
       "link": "https://github.com/devYranzo/Portfolio",
       "aria": "Ver proyecto en Github"
     },
@@ -14,7 +14,7 @@
       "title": "Reínos de Eteria",
       "description": "Web para crear personajes de rol medievales.",
       "tecnologies": ["PHP", "HTML", "CSS"],
-      "image": "src/assets/ProjectsImages/ReinosEteria.webp",
+      "image": "/ProjectsImages/ReinosEteria.webp",
       "link": "https://github.com/devYranzo/ReinosEteria",
       "aria": "Ver proyecto en Github"
     },
