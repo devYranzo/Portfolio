@@ -1,21 +1,20 @@
-import { useTranslation } from 'react-i18next'
-import PageWrapper from '../components/PageWrapper'
-import CursorCircle from '../components/CursorAnimation'
+import { useTranslation } from 'react-i18next';
+import PageWrapper from '../components/PageWrapper';
+import CursorCircle from '../components/CursorAnimation';
 
-import FotoEneko from '../assets/FotoEneko.png'
-import OsakidetzaLogo from '../assets/osakidetza-logo.png'
-import DorletLogo from '../assets/dorlet-Logo.png'
-import CV from '../documents/CV_EnekoYranzo.pdf'
+import FotoEneko from '../assets/FotoEneko.png';
+import OsakidetzaLogo from '../assets/osakidetza-logo.png';
+import DorletLogo from '../assets/dorlet-Logo.png';
 
 export default function AboutMePage() {
-  const { t } = useTranslation('shared')
+  const { t } = useTranslation('shared');
 
   return (
     <PageWrapper>
       <div className="flex flex-col md:items-center font-Montserrat">
         <CursorCircle />
         <h1 className="text-4xl m-4 self-center">{t('aboutMe.title')}</h1>
-        <article className="md:flex rounded-xl shadow-lg bg-transparent backdrop-blur-md border border-stone-900 m-4 max-w-[1170px] lg:min-w-[1170px] overflow-hidden items-stretch">
+        <article className="md:flex items-center rounded-xl shadow-lg bg-transparent backdrop-blur-md border border-stone-900 m-4 max-w-[1170px] lg:min-w-[1170px] overflow-hidden">
           <img
             src={FotoEneko}
             alt="Eneko image"
@@ -31,30 +30,6 @@ export default function AboutMePage() {
               <br />
               {t('aboutMe.text3')}
             </div>
-            <a
-              href={CV}
-              className="self-start mt-4 mb-9 bg-emerald-400 px-4 py-2 rounded text-black hover:scale-95 ease-in-out duration-200"
-            >
-              <span className="flex">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="24"
-                  height="24"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  stroke="currentColor"
-                  strokeWidth="2"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  className="mr-2"
-                >
-                  <path d="M12 17V3" />
-                  <path d="m6 11 6 6 6-6" />
-                  <path d="M19 21H5" />
-                </svg>
-                {t('aboutMe.download')}
-              </span>
-            </a>
           </div>
         </article>
         <section className="max-w-[1170px] lg:min-w-[1170px]">
@@ -140,5 +115,5 @@ export default function AboutMePage() {
         </section>
       </div>
     </PageWrapper>
-  )
+  );
 }
